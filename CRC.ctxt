@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=java.lang.String\ stringToBinary(java.lang.String)
+comment1.params=s
+comment1.target=java.lang.String\ binaryToHex(java.lang.String)
+comment2.params=s
+comment2.target=java.lang.String\ hexToBinary(java.lang.String)
+comment3.params=inputWord\ div\ start\ end
+comment3.target=java.lang.String\ computeCRC(java.lang.String,\ java.lang.String,\ int,\ int)
+comment4.params=
+comment4.target=void\ main()
+numComments=5
